@@ -64,5 +64,7 @@ Then use _mean(max(sim,threshold))_ to compute the expected value of the state.
 
 
 
-## 4 
+## 4 Plotting
+![Price threshold curve] (\Thresholds.jpg)
+
  
