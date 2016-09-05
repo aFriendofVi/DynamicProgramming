@@ -4,6 +4,8 @@ _Author: Yuheng Huang_
 _Sep-1-2016_
 
 ## 1  Code
+
+```matlab
 % initial mean value of the offers is the initial threshold
 threshold = 100; 
  
@@ -38,6 +40,8 @@ title(['Expected reward at day 1: ',num2str(meanDayValue(1))]);
 xlabel('Day');ylabel('Threshold');axis([1,31,0,meanDayValue(1)+20]);
 clc;
 disp(['Expected reward at day 1: ',num2str(meanDayValue(1)),' dollars']);
+
+```
 
 ## 2 Approximations
 The code generates 100000 random numbers distributed as N(100,20^2) in each loop. Store these numbers in a 100000*1 vector _sim_
