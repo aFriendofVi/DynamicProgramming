@@ -51,15 +51,15 @@ Then use _mean(max(sim,threshold))_ to compute the expected value of the state.
 
 ```matlab
 
-  _Columns 1 through 14_
+  Columns 1 through 14
 
   136.2016  135.9103  135.6182  135.3019  134.9741  134.6327  134.2804  133.9236  133.5356  133.1281  132.7030  132.2645  131.7974  131.2797
 
-  _Columns 15 through 28_
+  Columns 15 through 28
 
   130.7442  130.1624  129.5385  128.8648  128.1586  127.3738  126.4999  125.5473  124.4531  123.2456  121.8472  120.2299  118.2677  115.8233
 
-  _Columns 29 through 31_
+  Columns 29 through 31
 
   112.5873  107.9505         0
 ```
