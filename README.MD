@@ -49,6 +49,8 @@ Then use _mean(max(sim,threshold))_ to compute the expected value of the state.
 
 ## 3 Numerical values of the 31 days threshold
 
+```matlab
+
   _Columns 1 through 14_
 
   136.2016  135.9103  135.6182  135.3019  134.9741  134.6327  134.2804  133.9236  133.5356  133.1281  132.7030  132.2645  131.7974  131.2797
@@ -60,7 +62,7 @@ Then use _mean(max(sim,threshold))_ to compute the expected value of the state.
   _Columns 29 through 31_
 
   112.5873  107.9505         0
-
+```
 
 
 
