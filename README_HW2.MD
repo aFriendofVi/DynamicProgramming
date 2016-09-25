@@ -132,21 +132,21 @@ disp('==========================================================================
 
 ## Problem 1
 Decision rule:
-	\pi(S_t = 1) = Action 1
-	\pi(S_t = 2) = Action 1
-	\pi(S_t = 3) = Action 2
-	E(Reward|initial State = 1): 21.7197
-	E(Reward|initial State = 2): 20.4355
-	E(Reward|initial State = 3): 21.5294
+	policy(S = 1) = Action 1  
+	policy(S = 2) = Action 1  
+	policy(S = 3) = Action 2  
+	E(Reward|initial State = 1): 21.7197  
+	E(Reward|initial State = 2): 20.4355  
+	E(Reward|initial State = 3): 21.5294  
 	
 ![Expected Reward] (\hw2_graph.jpg)
 	
 ## Problem 2
 
-t=1: 0.8                       0.2                         0
-t=2: 0.68                      0.28                      0.04
-t=3: 0.628                     0.304                     0.068
-t=4: 0.6108                     0.308                    0.0812
+t=1: 0.8                       0.2                         0  
+t=2: 0.68                      0.28                      0.04  
+t=3: 0.628                     0.304                     0.068  
+t=4: 0.6108                     0.308                    0.0812  
 t=5: 0.60708                   0.30696                   0.08596
 
 
