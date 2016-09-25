@@ -3,8 +3,9 @@
 _Author: Yuheng Huang_
 _Sep-25-2016_
 
-```matlab
 ## 0 Code
+```matlab
+
 
 P(1,:,:) = [0.8 0.2 0; 0.2 0.6 0.2; 0.2 0 0.8];
 P(2,:,:) = [0.5 0.5 0; 0.3 0.4 0.3; 0.7 0 0.3];
@@ -138,7 +139,7 @@ Decision rule:
 	E(Reward|initial State = 2): 20.4355
 	E(Reward|initial State = 3): 21.5294
 	
-	![Price threshold curve] (\hw2_graph.png)
+	![Price threshold curve] (\hw2_graph.jpg)
 	
 ## Problem 2
 
