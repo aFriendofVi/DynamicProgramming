@@ -3,6 +3,7 @@
 _Author: Yuheng Huang_
 _Sep-25-2016_
 
+```matlab
 ## 0 Code
 
 P(1,:,:) = [0.8 0.2 0; 0.2 0.6 0.2; 0.2 0 0.8];
