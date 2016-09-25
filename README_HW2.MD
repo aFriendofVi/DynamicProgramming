@@ -139,7 +139,8 @@ Decision rule:
 	E(Reward|initial State = 2): 20.4355
 	E(Reward|initial State = 3): 21.5294
 	
-	![Price threshold curve] (\hw2_graph.jpg)
+	![Expected Reward] (\hw2_graph.jpg)
+	![Price threshold curve] (\Thresholds.jpg)
 	
 ## Problem 2
 
