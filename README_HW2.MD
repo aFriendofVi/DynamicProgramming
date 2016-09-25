@@ -132,15 +132,14 @@ disp('==========================================================================
 
 ## Problem 1
 Decision rule:
-	\( \pi \ \)(S_t = 1) = Action 1
-	\( \pi \ \)(S_t = 2) = Action 1
-	\( \pi \ \)(S_t = 3) = Action 2
+	\pi(S_t = 1) = Action 1
+	\pi(S_t = 2) = Action 1
+	\pi(S_t = 3) = Action 2
 	E(Reward|initial State = 1): 21.7197
 	E(Reward|initial State = 2): 20.4355
 	E(Reward|initial State = 3): 21.5294
 	
 ![Expected Reward] (\hw2_graph.jpg)
-![Price threshold curve] (\Thresholds.jpg)
 	
 ## Problem 2
 
